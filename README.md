@@ -32,12 +32,14 @@ Ao concluir este desafio, fui capaz de:
   3. Documentar a experiência com anotações, prints e observações.
   4. Organizar e publicar no GitHub.
 
-## 💡 Insights Adquiridos
+## 💡 Insights Adquiridos  
 
-Durante a prática, observei que:
-- O Speech Studio é altamente eficaz para transcrição de voz em tempo real e pode ser integrado a chatbots e assistentes virtuais.
-- O Language Studio fornece análises de sentimentos, tradução e entendimento de linguagem natural, possibilitando cenários avançados de NLP (Natural Language Processing).
-- A integração entre fala e linguagem abre espaço para soluções inteligentes de atendimento automatizado e análise de comunicação.
+Durante a prática, observei que:  
+- O **Speech Studio** é altamente eficaz para transcrição de voz em tempo real e pode ser integrado a chatbots e assistentes virtuais.  
+- O **Language Studio** fornece análises de sentimentos, tradução e entendimento de linguagem natural, possibilitando cenários avançados de **NLP** (Natural Language Processing).  
+- A integração entre fala e linguagem abre espaço para soluções inteligentes de atendimento automatizado e análise de comunicação.  
+
+📌 Detalhei essas observações e reflexões no arquivo [insights.md](./insights.md).
 
 ## 📸 Capturas de Tela
 
