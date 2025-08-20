@@ -41,9 +41,14 @@ Durante a prática, observei que:
 
 📌 Detalhei essas observações e reflexões no arquivo [insights.md](./insights.md).
 
-## 📸 Capturas de Tela
+## 📸 Exemplos da Prática  
 
-As imagens estão organizadas na pasta /images
+### Azure Speech Studio  
+Transcrição de voz em tempo real:  
+![Transcrição de Voz](./images/speech-transcription.png)  
+
+Conversão de texto em fala (TTS):  
+![Texto para Fala](./images/speech-tts.png)  
 
 ## 🔗 Recursos Úteis
 
